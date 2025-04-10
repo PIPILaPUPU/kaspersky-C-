@@ -1,0 +1,7 @@
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\bin\Debug\ks test_exercise.exe.config
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\bin\Debug\ks test_exercise.exe
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\bin\Debug\ks test_exercise.pdb
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\obj\Debug\ks test_exercise.csproj.AssemblyReference.cache
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\obj\Debug\ks test_exercise.csproj.CoreCompileInputs.cache
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\obj\Debug\ks test_exercise.exe
+D:\C# non University\kasp\ks test_exercise\ks test_exercise\obj\Debug\ks test_exercise.pdb
